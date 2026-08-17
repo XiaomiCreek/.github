@@ -1,22 +1,133 @@
-# Initialize local repository
+<div align="center">
 
-The repo init will depend on the Rom you choose. 
-For example:
-- Lineage
+![Creek Banner](https://github.com/XiaomiCreek/LineageOS/raw/16/POCO-M7-4G-Featured.jpg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Now+focused+on+LineageOS+23.2%3B;Stock+Android+features.+AOSP+foundation.;Your+device%2C+upgraded.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;100%2B+devices+supported.;Open+source.+No+compromises.)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://t.me/LineageOS_creek"><img src="https://img.shields.io/badge/Telegram-Channel-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/los_creek"><img src="https://img.shields.io/badge/Telegram-Chat-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/XiaomiCreek/android_device_xiaomi_creek/commits/lineage-23.2"><img src="https://img.shields.io/github/last-commit/Evolution-X/frameworks_base/cnb?style=flat-square&color=00D4AA&label=Last+Commit"/></a>
+  <img src="https://komarev.com/ghpvc/?username=XiaomiCreek&style=flat-square&color=6C63FF&label=README+Views"/>
+</p>
+
+</div>
+
+---
+
+> ### 🔵 Current Focus: LineageOS
+> Development is centered on the **Android 16 (`lineage-23.2`)** branch — fixes and device bring-up land there first. We will try to keep this device actively maintained on a stability-focused updates.
+
+---
+
+## ✨ What Makes Creek Special!?
+
+<table align="center">
+  <tr>
+    <td width="240px"><b>SoC</b></td>
+    <td width="650px">Qualcomm SM6225 Snapdragon 685 (6 nm)</td>
+  </tr>
+  <tr>
+    <td><b>CPU</b></td>
+    <td>4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53</td>
+  </tr>
+  <tr>
+    <td><b>GPU</b></td>
+    <td>Adreno 610</td>
+  </tr>
+  <tr>
+    <td><b>Memory</b></td>
+    <td>6GB/8GB RAM (LPDDR4X)</td>
+  </tr>
+  <tr>
+    <td><b>Storage</b></td>
+    <td>128GB/256GB UFS 2.2 (Expandable up to 2TB via SD)</td>
+  </tr>
+  <tr>
+    <td><b>Shipped Android version</b></td>
+    <td>15.0 with HyperOS 2</td>
+  </tr>
+  <tr>
+    <td><b>Battery</b></td>
+    <td>Non-removable Silicon-Carbon 7000 mAh</td>
+  </tr>
+  <tr>
+    <td><b>Dimensions</b></td>
+    <td>169.48 x 80.45 x 8.4 mm</td>
+  </tr>
+  <tr>
+    <td><b>Display</b></td>
+    <td>1080 x 2340 pixels, 19.5:9 ratio 6.9" inch</td>
+  </tr>
+  <tr>
+    <td><b>Type</b></td>
+    <td>IPS LCD, 144Hz, 850 nits (HBM)</td>
+  </tr>
+  <tr>
+    <td><b>NFC</b></td>
+    <td>Yes (Region dependent)</td>
+  </tr>
+  <tr>
+    <td><b>Main Camera</b></td>
+    <td>50 MP f/1.8 (Wide) + Auxiliary Lens</td>
+  </tr>
+  <tr>
+    <td><b>Front camera</b></td>
+    <td>8 MP, f/2.0 (wide)</td>
+  </tr>
+  <tr>
+    <td><b>Protection</b></td>
+    <td>IP64 + Wet Touch 2.0</td>
+  </tr>
+  <tr>
+    <td><b>Weight</b></td>
+    <td>214g</td>
+  </tr>
+  <tr>
+    <td><b>Max Wired Input</b></td>
+    <td>33W (Turbo Charging)</td>
+  </tr>
+  <tr>
+    <td><b>Reverse Charging</b></td>
+    <td>18W Wired (Power bank mode)</td>
+  </tr>
+  <tr>
+    <td><b>0-100% Time</b></td>
+    <td>~96 Minutes</td>
+  </tr>
+  <tr>
+    <td><b>Battery Protection</b></td>
+    <td>Battery Health 4.0 / Smart Charging Engine 2.0</td>
+  </tr>
+</table>
+
+---
+
+## 📱 Supported Android Versions
+
+<div align="center">
+
+| Branch | Status | Security Patch | Manifest |
+|--------|--------|---------------|----------|
+| 🟣 **Android 16 QPR2** | ![Maintained](https://img.shields.io/badge/Maintained-6C63FF?style=flat-square) | August 2026 | [16](https://[github.com/Evolution-X/manifest/commits/bka](https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml) |
+
+</div>
+
+---
+
+## 🚀 Getting Started
+
+- Initialize local repository
 ```
 repo init -u https://github.com/LineageOS/android.git -b lineage-23.2 --git-lfs
 ```
-- Evolution-X
-```
-repo init -u https://github.com/Evolution-X/manifest -b bka --git-lfs
-```
 
-# Clone your local manifest for Device
+- Clone your local manifest for Device
 ```
 git clone https://github.com/XiaomiCreek/LineageOS.git -b 16 .repo/local_manifests
 ```
 
-# Sync up
+- Sync up
 ```
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
@@ -33,7 +144,16 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 Breakfast creek user-debug
 ```
 
-- To start compiling
+- start compiling
 ```
-m evolution or mka bacon
+m bacon
 ```
+---
+
+<div align="center">
+
+### ⭐ Thanks for checking out creek!
+
+**Now focused on Android 16 — let's keep creek alive together 🚀**
+
+</div>
