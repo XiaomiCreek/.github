@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/LineageOS_creek"><img src="https://img.shields.io/badge/Telegram-Chat-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="https://t.me/los_creek"><img src="https://img.shields.io/badge/Telegram-Channel-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/XiaomiCreek/android_device_xiaomi_creek/commits/lineage-23.2"><img src="https://img.shields.io/github/last-commit/Evolution-X/frameworks_base/cnb?style=flat-square&color=00D4AA&label=Last+Commit"/></a>
+  <a href="https://github.com/XiaomiCreek/android_device_xiaomi_creek/commits/lineage-23.2"><img src="https://img.shields.io/github/last-commit/XiaomiCreek/android_device_xiaomi_creek/lineage-23.2?style=flat-square&color=00D4AA&label=Last+Commit"/></a>
   <img src="https://komarev.com/ghpvc/?username=XiaomiCreek&style=flat-square&color=6C63FF&label=README+Views"/>
 </p>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ What Makes Creek Special!?
+## ✨ What Makes this device Special!?
 
 <table align="center">
   <tr>
@@ -107,15 +107,15 @@
 
 <div align="center">
 
-| Rom Name | Status | Security Patch | Manifest | Downloads |
-|--------|--------|---------------|----------|----------|
-| **LineageOS 23.2** | ![Bringup](https://img.shields.io/badge/Bringup-FF6C37?style=flat-square) | August 2026 | [16](https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml) | Coming Soon |
+| Rom Name | Rom Version | Release Type | Status | Security Patch | Manifest | Downloads |
+|----------|-------------|--------------|--------|----------------|----------|-----------|
+| **LineageOS** | **23.2** | Unofficial | ![Bringup](https://img.shields.io/badge/Bringup-FF6C37?style=flat-square) | August 2026 | [16](https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml) | *Coming Soon* |
 
 </div>
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Building from Source
 
 - Initialize local repository
 ```
@@ -162,8 +162,8 @@ When choosing a custom ROM, we recommend:
 
 <div align="center">
   
-### ⭐ Thanks for checking out creek!
+### ⭐ Thanks for checking out Project XiaomiCreek!
 
-**Now focused on Android 16 — let's keep creek alive together 🚀**
+**Now focused on Android 16 — let's keep *creek* alive together 🚀**
 
 </div>
