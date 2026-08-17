@@ -1,6 +1,6 @@
 <div align="center">
 
-![Creek Banner](https://github.com/XiaomiCreek/LineageOS/raw/16/POCO-M7-4G-Featured.jpg)
+![Creek Banner](https://github.com/XiaomiCreek/.github/raw/main/Xiaomi-Poco-M7-4G.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Now+focused+on+LineageOS+23.2%3B;Stock+Android+features.+AOSP+foundation.;Your+device%2C+upgraded.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;100%2B+devices+supported.;Open+source.+No+compromises.)](https://git.io/typing-svg)
 
