@@ -103,13 +103,13 @@
 
 ---
 
-## 📱 Supported Android Versions
+## 📱 Supported Custom Roms
 
 <div align="center">
 
-| Branch | Status | Security Patch | Manifest |
-|--------|--------|---------------|----------|
-| 🟣 **Android 16 QPR2** | ![Maintained](https://img.shields.io/badge/Maintained-6C63FF?style=flat-square) | August 2026 | [16](https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml) |
+| Rom Name | Status | Security Patch | Manifest | Downloads |
+|--------|--------|---------------|----------|----------|
+| **LineageOS 23.2** | ![Bringup](https://img.shields.io/badge/Bringup-FF6C37?style=flat-square) | August 2026 | [16](https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml) | Coming Soon |
 
 </div>
 
@@ -139,7 +139,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 - Breakfast the target
 ```
-Breakfast creek user-debug
+Breakfast creek userdebug
 ```
 
 - start compiling
