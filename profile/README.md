@@ -109,7 +109,7 @@
 
 | Branch | Status | Security Patch | Manifest |
 |--------|--------|---------------|----------|
-| 🟣 **Android 16 QPR2** | ![Maintained](https://img.shields.io/badge/Maintained-6C63FF?style=flat-square) | August 2026 | [16][https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml] |
+| 🟣 **Android 16 QPR2** | ![Maintained](https://img.shields.io/badge/Maintained-6C63FF?style=flat-square) | August 2026 | [16](https://github.com/XiaomiCreek/LineageOS/blob/16/local_manifest.xml) |
 
 </div>
 
