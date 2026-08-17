@@ -132,8 +132,6 @@ git clone https://github.com/XiaomiCreek/LineageOS.git -b 16 .repo/local_manifes
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
-# Build
-
 - Set up the build environment
 ```
 . build/envsetup.sh
