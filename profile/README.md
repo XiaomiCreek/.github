@@ -150,8 +150,20 @@ m bacon
 ```
 ---
 
-<div align="center">
+## 🔐 Security & Transparency
 
+Creek device tree is **fully open source**. Every line of code is publicly available for review — from system components to build scripts. We believe users have the right to inspect what's running on their devices.
+
+When choosing a custom ROM, we recommend:
+
+- ✅ Verifying that source code is publicly available
+- ✅ Reviewing recent commit history and development activity
+- ✅ Checking maintainer reputation and community trust
+
+---
+
+<div align="center">
+  
 ### ⭐ Thanks for checking out creek!
 
 **Now focused on Android 16 — let's keep creek alive together 🚀**
