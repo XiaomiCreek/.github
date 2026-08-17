@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Now+focused+on+LineageOS+23.2%3B;Stock+Android+features.+AOSP+foundation.;Your+device%2C+upgraded.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;100%2B+devices+supported.;Open+source.+No+compromises.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://t.me/LineageOS_creek"><img src="https://img.shields.io/badge/Telegram-Channel-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/los_creek"><img src="https://img.shields.io/badge/Telegram-Chat-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/LineageOS_creek"><img src="https://img.shields.io/badge/Telegram-Chat-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/los_creek"><img src="https://img.shields.io/badge/Telegram-Channel-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/XiaomiCreek/android_device_xiaomi_creek/commits/lineage-23.2"><img src="https://img.shields.io/github/last-commit/Evolution-X/frameworks_base/cnb?style=flat-square&color=00D4AA&label=Last+Commit"/></a>
   <img src="https://komarev.com/ghpvc/?username=XiaomiCreek&style=flat-square&color=6C63FF&label=README+Views"/>
 </p>
