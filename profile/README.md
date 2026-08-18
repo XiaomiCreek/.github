@@ -124,7 +124,7 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-23.2 --git-lfs
 
 - Clone your local manifest for Device
 ```
-git clone https://github.com/XiaomiCreek/LineageOS.git -b 16 .repo/local_manifests
+git clone https://github.com/XiaomiCreek/android.git -b 16 .repo/local_manifests
 ```
 
 - Sync up
