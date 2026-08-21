@@ -13,7 +13,7 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
   <img src="https://komarev.com/ghpvc/?username=XiaomiCreek&style=flat-square&color=6C63FF&label=README+Views"/>
 </p>
 
-![Creek Banner](https://github.com/XiaomiCreek/.github/raw/main/Xiaomi-Poco-M7-4G.jpg)
+![Creek Banner](https://github.com/XiaomiCreek/.github/raw/main/Xiaomi-Poco-M7-4G.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=600&color=6C63FF&center=true&vCenter=true&width=600&lines=Now+focused+on+LineageOS+23.2;Stock+Android+features.+AOSP+foundation.;Your+device%2C+upgraded.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;Open+source.+No+compromises.)](https://git.io/typing-svg)
 
