@@ -1,8 +1,10 @@
 <div align="center">
 
-![Creek Banner](https://github.com/XiaomiCreek/.github/raw/main/Xiaomi-Poco-M7-4G.jpg)
+## Welcome to the active source code hub for **Xiaomi POCO M7 4G / Redmi 15 4G (`creek`)**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Now+focused+on+LineageOS+23.2%3B;Stock+Android+features.+AOSP+foundation.;Your+device%2C+upgraded.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;100%2B+devices+supported.;Open+source.+No+compromises.)](https://git.io/typing-svg)
+
+
+Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / Redmi 15 4G custom ROM bringup, device tree.
 
 <p align="center">
   <a href="https://t.me/LineageOS_creek"><img src="https://img.shields.io/badge/Telegram-Chat-01A9E0?style=flat-square&logo=telegram&logoColor=white"/></a>
@@ -11,12 +13,23 @@
   <img src="https://komarev.com/ghpvc/?username=XiaomiCreek&style=flat-square&color=6C63FF&label=README+Views"/>
 </p>
 
+![Creek Banner](https://github.com/XiaomiCreek/.github/raw/main/Xiaomi-Poco-M7-4G.jpg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=600&color=6C63FF&center=true&vCenter=true&width=600&lines=Now+focused+on+LineageOS+23.2;Stock+Android+features.+AOSP+foundation.;Your+device%2C+upgraded.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;Open+source.+No+compromises.)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 > ### 🔵 Current Focus: LineageOS
 > Development is centered on the **Android 16 (`lineage-23.2`)** branch — fixes and device bring-up land there first. We will try to keep this device actively maintained on a stability-focused updates.
+
+---
+
+## 📦 Core Repositories
+* **Device Tree:** [`android_device_xiaomi_creek`](https://github.com/XiaomiCreek/android_device_xiaomi_creek)
+* **Vendor Tree:** [`android_vendor_xiaomi_creek`](https://github.com/XiaomiCreek/android_vendor_xiaomi_creek)
+* **Kernel Tree:** [`android_kernel_xiaomi_creek`](https://github.com/XiaomiCreek/android_kernel_xiaomi_creek)
 
 ---
 
