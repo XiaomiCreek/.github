@@ -21,8 +21,44 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
 
 ---
 
-> ### 🔵 Current Focus: LineageOS
-> Development is centered on the **Android 16 (`lineage-23.2`)** branch — fixes and device bring-up land there first. We will try to keep this device actively maintained on a stability-focused updates.
+## 📱 Supported Custom Roms
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" width="160">ROM Name</th>
+        <th align="center" width="100">Version</th>
+        <th align="center" width="140">Release Type</th>
+        <th align="center" width="160">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>LineageOS</b></td>
+        <td align="center"><code>23.2</code></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Type-Unofficial-blue?style=flat-square" alt="Unofficial" />
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Download-Unavailable-grey?style=flat-square" alt="Unavailable" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>EvolutionX</b></td>
+        <td align="center"><code>11.10</code></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Type-Unofficial-blue?style=flat-square" alt="Unofficial" />
+        </td>
+        <td align="center">
+          <a href="https://sourceforge.net/projects/xiaomicreek/files/EvolutionX/16/EvolutionX-16.0-20260828-creek-11.10-Unofficial.zip/download">
+            <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download EvolutionX" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -113,47 +149,6 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
     <td>Battery Health 4.0 / Smart Charging Engine 2.0</td>
   </tr>
 </table>
-
----
-
-## 📱 Supported Custom Roms
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center" width="160">ROM Name</th>
-        <th align="center" width="100">Version</th>
-        <th align="center" width="140">Release Type</th>
-        <th align="center" width="160">Download</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b>LineageOS</b></td>
-        <td align="center"><code>23.2</code></td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Type-Unofficial-blue?style=flat-square" alt="Unofficial" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Download-Unavailable-grey?style=flat-square" alt="Unavailable" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><b>EvolutionX</b></td>
-        <td align="center"><code>11.10</code></td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Type-Unofficial-blue?style=flat-square" alt="Unofficial" />
-        </td>
-        <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/EvolutionX/16/EvolutionX-16.0-20260828-creek-11.10-Unofficial.zip/download">
-            <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download EvolutionX" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 ---
 
