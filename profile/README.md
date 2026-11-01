@@ -28,20 +28,20 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
     <thead>
       <tr>
         <th align="center" width="160">ROM Name</th>
-        <th align="center" width="100">Version</th>
-        <th align="center" width="140">Release Type</th>
+        <th align="center" width="100">Android Version</th>
+        <th align="center" width="140">Maintainer</th>
         <th align="center" width="160">Download</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center"><b>LineageOS</b></td>
-        <td align="center"><code>23.2</code></td>
+        <td align="center"><code>17</code></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Status-Unofficial-blue?style=flat-square" alt="Unofficial" />
+          <img src="https://img.shields.io/badge/Maintainer-Lucy-blue?style=flat-square" alt="Lucy" />
         </td>
         <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/LineageOS/16/">
+          <a href="https://sourceforge.net/projects/xiaomicreek/files/17/LineageOS/">
             <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download LineageOS" />
           </a>
         </td>
