@@ -47,10 +47,22 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
         </td>
       </tr>
       <tr>
-        <td align="center"><b>EvolutionX</b></td>
-        <td align="center"><code>11.10</code></td>
+        <td align="center"><b>LineageOS</b></td>
+        <td align="center"><code>16</code></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Status-Unofficial-blue?style=flat-square" alt="Unofficial" />
+          <img src="https://img.shields.io/badge/Maintainer-Abdul Samad-blue?style=flat-square" alt="Abdul Samad" />
+        </td>
+        <td align="center">
+          <a href="https://sourceforge.net/projects/xiaomicreek/files/16/LineageOS/">
+            <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download LineageOS" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>EvolutionX</b></td>
+        <td align="center"><code>16</code></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Maintainer-Abdul Samad-blue?style=flat-square" alt="Abdul Samad" />
         </td>
         <td align="center">
           <a href="https://sourceforge.net/projects/xiaomicreek/files/EvolutionX/16/">
@@ -60,12 +72,12 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
       </tr>
       <tr>
         <td align="center"><b>PixelOS</b></td>
-        <td align="center"><code>16</code></td>
+        <td align="center"><code>17</code></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Status-Testing-orange?style=flat-square" alt="Testing" />
+          <img src="https://img.shields.io/badge/Maintainer-Koneko-orange?style=flat-square" alt="Koneko" />
         </td>
         <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/PixelOS/16/">
+          <a href="https://sourceforge.net/projects/xiaomicreek/files/17/PixelOS/">
             <img src="https://img.shields.io/badge/Download-Unavailable-orange?style=flat-square&logo=sourceforge&logoColor=white" alt="Download PixelOS" />
           </a>
         </td>
