@@ -30,7 +30,7 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
   | **CloverProject**     | `17`| [Koneko](https://t.me/Koneko_dev)     | Maintained |  <a href="https://sourceforge.net/projects/xiaomicreek/files/17/CloverProject/">SourceForge</a> |
   | **LineageOS**         | `17`| [Lucy](https://t.me/Lufrz)            | Maintained |  <i>Offline</i> |
   | **PixelOS**           | `17`| [Koneko](https://t.me/Koneko_dev)     | Maintained |  <i>Offline</i> |
-  | **Project-InfinityX** | `17`| [Koneko](https://t.me/Koneko_dev)     | Maintained |  <a href="https://sourceforge.net/projects/xiaomicreek/files/17/Project-InfinityX/">SourceForge</a> |
+  | **Project-InfinityX** | `17`| [Koneko](https://t.me/Koneko_dev)     | Maintained |  <a href="https://sourceforge.net/projects/xiaomicreek/files/17/Project-Infinity-X/">SourceForge</a> |
   | **RisingOS**          | `17`| [Koneko](https://t.me/Koneko_dev)     | Maintained |  <a href="https://sourceforge.net/projects/xiaomicreek/files/17/RisingOS/">SourceForge</a> |
   | **EvolutionX**        | `16`| [Abdul Samad](https://t.me/nuruszama) | Maintained |  <a href="https://sourceforge.net/projects/xiaomicreek/files/16/EvolutionX/">SourceForge</a> |
   | **LineageOS**         | `16`| [Abdul Samad](https://t.me/nuruszama) | Deprecated |  <a href="https://sourceforge.net/projects/xiaomicreek/files/16/LineageOS/">SourceForge</a> |
