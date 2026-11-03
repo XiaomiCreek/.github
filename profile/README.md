@@ -24,66 +24,14 @@ Note: This is an actively maintained Xiaomi Creek organization for POCO M7 4G / 
 ## 📱 Supported Custom Roms
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center" width="160">ROM Name</th>
-        <th align="center" width="100">Android Version</th>
-        <th align="center" width="140">Maintainer</th>
-        <th align="center" width="160">Download</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b>LineageOS</b></td>
-        <td align="center"><code>17</code></td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Maintainer-Lucy-blue?style=flat-square" alt="Lucy" />
-        </td>
-        <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/17/LineageOS/">
-            <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download LineageOS" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><b>LineageOS</b></td>
-        <td align="center"><code>16</code></td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Maintainer-Abdul Samad-blue?style=flat-square" alt="Abdul Samad" />
-        </td>
-        <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/16/LineageOS/">
-            <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download LineageOS" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><b>EvolutionX</b></td>
-        <td align="center"><code>16</code></td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Maintainer-Abdul Samad-blue?style=flat-square" alt="Abdul Samad" />
-        </td>
-        <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/EvolutionX/16/">
-            <img src="https://img.shields.io/badge/Download-SourceForge-brightgreen?style=flat-square&logo=sourceforge&logoColor=white" alt="Download EvolutionX" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><b>PixelOS</b></td>
-        <td align="center"><code>17</code></td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Maintainer-Koneko-orange?style=flat-square" alt="Koneko" />
-        </td>
-        <td align="center">
-          <a href="https://sourceforge.net/projects/xiaomicreek/files/17/PixelOS/">
-            <img src="https://img.shields.io/badge/Download-Unavailable-orange?style=flat-square&logo=sourceforge&logoColor=white" alt="Download PixelOS" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+
+  | ROM | Ver | Maintainer | Download |
+  | :-: | :-: | :---: | :-: |
+  | **LineageOS** | `17` | [Lucy](https://t.me/Lufrz) | <i>Offline</i> |
+  | **PixelOS** | `17` | [Koneko](https://t.me/Koneko_dev) | <i>Offline</i> |
+  | **LineageOS** | `16` | [Abdul Samad](https://t.me/nuruszama) | <a href="https://sourceforge.net/projects/xiaomicreek/files/16/LineageOS/">SourceForge</a> |
+  | **EvolutionX** | `16` | [Abdul Samad](https://t.me/nuruszama) | <a href="https://sourceforge.net/projects/xiaomicreek/files/EvolutionX/16/">SourceForge</a> |
+  
 </div>
 
 ---
